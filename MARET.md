@@ -1,22 +1,7 @@
 
 
 YANG DI SALIN KE URL BUKAN ISINYA YA ??
-CUKUP LINKNYA SAYA ,,,,,,
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+CUKUP LINKNYA SAJA ,,,,,,
 
 
 
