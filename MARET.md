@@ -10,9 +10,10 @@ CUKUP LINKNYA SAJA ,,,,,,
 
 
 #EXTM3U x-tvg-url="https://epg.ksa.my.id/ksa.xml" url-tvg="https://epg.ksa.my.id/ksa.xml" refresh="1440" max-conn="1" refresh="24"
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTINF:0 tvg-id="INFO" tvg-logo="" group-title="National TV ",INFO PELANGGAN
+#EXTINF:0 tvg-id="INFO" tvg-logo="https://cdn6.aptoide.com/imgs/7/5/e/75ef5d9fe7c81501d3ae4246b124c5e8_fgraphic.jpg" group-title="National TV ",INFO PELANGGAN
 https://uc52e676b1ca66a3d0c94f1ff719.previews.dropboxusercontent.com/p/hls_playlist/AB0GM2OkSE4e8_pzlUVTnkB-qXU1jKxbeJkB7RXaOcGHqFKrQtCayBwA1dqWHV0HibZYmimB-NG4qI_AgmwgpQdmR84PVJ4HljR_YYOgymIdnzLOZl9PpsT6P6wNfQeVKuOiaZ8mvmhkRxgYE-JK6_wXV33Wd7uJSeNXdz6VyaZkiuxHWdLejrsL-BTf8i_cX4fHZ63Qm5x1LRFhJ34jRFOrmQ-OOUpubTdLLBM5F8GIhEMzVg7dav7s18EpgA5cWpjnEU6gEt2xMbIWbPz3vKpo6rKiCBx8BpfBENjriC20S-EZ7Hp0OaH5NjguelA5fOUgtRm7u6BnIIYSe4o21FHWf4H_SoWqkTufLgkzNWmoD69AfQiUnmN4T6z1_LQMcZN30_PGzeZaaBjvAGEGAbvIwKYxZVX_o5foL_P48BBezsPiRgrH6Tl2dxUX2-ALseMjPxzITndHyN_-x4tngyzzP_NmbHhWrLuMgglyg--RSrbWFJUjielG3vWR26KXzIDZg40KgKhIQ41ehy5Z2amiIu9BPiJvugqWzB-IvtGQmitNUIq-3wY8xoSJIiy9GUi6PrWg-o0ehrJA7J6bUujU6voudrPL_GyV6N1buN2g-RjyAzM5pPMll0D2BYUJtsEdAd757hBvk43UQOhWXJiY95hFr1YusE7EMRiA6wiCv_lcLih0JYJUZWlvf0I0DnUGAtdn8429ogbJ0P17AYdDKjA2Igxpzm7zGHF4F0lCyBZYK2sEryW3KG62kRL2lohTPpPBevd3RNAX1Imwus4EEoJ2W8HWOc4wdbaqd8nTF3Urx4qKGYDKgjGqNq8Ncz3TLdXZ-LQfr1uShdXdFm-nLjdmsuXcAqdL_Auk1EjVrXeCm6VdPsC99gaL6trUjuc/p.m3u8?size=640x360&type=video
  
 
