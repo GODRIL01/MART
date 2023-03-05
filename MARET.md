@@ -11,8 +11,7 @@ CUKUP LINKNYA SAJA ,,,,,,
 
 #EXTM3U x-tvg-url="https://epg.ksa.my.id/ksa.xml" url-tvg="https://epg.ksa.my.id/ksa.xml" refresh="1440" max-conn="1" refresh="24"
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+
 #EXTINF:0 tvg-id="INFO" tvg-logo="https://cdn6.aptoide.com/imgs/7/5/e/75ef5d9fe7c81501d3ae4246b124c5e8_fgraphic.jpg" group-title="National TV ",INFO PELANGGAN
 https://cdn-useast1.kapwing.com/final_64018a0e9e5ba30020f35e83_655512.mp4?GoogleAccessId=prod-sa-videoprocessing%40kapwing-prod.iam.gserviceaccount.com&Expires=1677851345&Signature=JkfPuqt0fOXRqAj1BNrGv23G2Mag3FnsYY3JhXUmRKRx4zncXkzeuKMpHQ%2Bk7snxl0X5xfg8aBIRouMuBb%2BXmsGu04FNe899Cly0nL62mX2DPFb%2BstfWj%2FQUXLpPBQbDwOMNeP2w8kdY9%2BJgNgtBj0g6Ed%2F24w8QZoF09lhHzdKGtabzNGGwwGhXCpUEGzKI3j9dxrUxAXd58vE3Ydbu5to5n6OzaMbRbREXpiaRMv655zEmLB%2F1yKXCZUhdKFtpliUUvuKnEmkEeRbn2meYyFEuckuSsKoAbDPPUQkQwSIcQVriuHf3sx2CcQD53XASzA27%2B%2Fn7cCC2sK1XrZCmDg%3D%3D
 
